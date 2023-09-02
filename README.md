@@ -40,7 +40,7 @@ You can find these visualizations in the [notebooks](notebooks/) directory.
 
 ## Tableau Dashboard
 
-To provide an interactive and user-friendly interface for exploring the salary data, we have created a Tableau dashboard. The dashboard allows users to filter and drill down into the data, gaining valuable insights at their fingertips. You can access the dashboard [here](tableau/dashboard.twbx).
+To provide an interactive and user-friendly interface for exploring the salary data, we have created a Tableau dashboard. The dashboard allows users to filter and drill down into the data, gaining valuable insights at their fingertips. You can access the dashboard [here]([tableau/dashboard.twbx](https://public.tableau.com/app/profile/ishita.sharma7620/viz/Datasciencejobsalaries_16935291280440/DatasciencejobsalariesDashboard)).
 
 ![Tableau Dashboard](images/tableau_dashboard.png)
 
