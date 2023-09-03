@@ -1,6 +1,6 @@
 # EDA on Data Science Job Salaries
 
-This repository contains all the necessary code, data, and documentation to perform a comprehensive analysis of salaries within the Data Science field. Whether you're a data enthusiast, a job seeker, or a recruiter, this project aims to provide valuable insights into the salary trends, factors influencing salaries, and more.
+This repository contains all the necessary code, data, and documentation to perform a comprehensive analysis of salaries within the Data Science field. Whether you're a data enthusiast, a job seeker, or a recruiter, this project aims to provide valuable insights into salary trends, factors influencing salaries, and more.
 
 ## Table of Contents
 
@@ -19,13 +19,13 @@ This repository contains all the necessary code, data, and documentation to perf
 In today's rapidly evolving job market, Data Science is one of the most sought-after fields. Understanding the salary trends in Data Science can be crucial for job seekers and employers alike. This project aims to answer questions such as:
 
 - What is the average salary for Data Science jobs?
-- How do salaries vary by location, experience, and education?
-- Which industries offer the highest salaries for Data Scientists?
-- To address these questions, we have gathered and analyzed a dataset of Data Science job postings and salaries.
+- How do salaries vary by location, experience level, employment type, and job role?
+- Which are the most trending job titles in the field of Data?
+- To address these questions, we have analyzed a dataset of Data Science job postings and salaries.
 
 ## Data
 
-The dataset used for this analysis is available in the [data](data/) directory. It includes information about job postings, such as job title, location, company, experience level, education requirements, and salary.
+The dataset used for this analysis is available in  [kaggle](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023). It includes information about job postings, such as job title, location, company, experience level, education requirements, and salary.
 
 ## Analysis and Visualizations
 
