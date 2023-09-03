@@ -40,7 +40,7 @@ You can find these visualizations in the [notebooks](notebooks/) directory.
 
 ## Tableau Dashboard
 
-To provide an interactive and user-friendly interface for exploring the salary data, we have created a Tableau dashboard. The dashboard allows users to filter and drill down into the data, gaining valuable insights at their fingertips. You can access the dashboard [here]([tableau/dashboard.twbx](https://public.tableau.com/app/profile/ishita.sharma7620/viz/Datasciencejobsalaries_16935291280440/DatasciencejobsalariesDashboard)).
+To provide an interactive and user-friendly interface for exploring the salary data, we have created a Tableau dashboard. The dashboard allows users to filter and drill down into the data, gaining valuable insights at their fingertips. You can access the dashboard [here](https://public.tableau.com/app/profile/ishita.sharma7620/viz/Datasciencejobsalaries_16935291280440/DatasciencejobsalariesDashboard).
 
 [![26d65e15727ae1b319dd64456a2ed2ca.png](https://imgtr.ee/images/2023/09/02/26d65e15727ae1b319dd64456a2ed2ca.png)](https://imgtr.ee/image/apHBu)
 
@@ -50,10 +50,7 @@ To reproduce the analysis and visualizations, follow these steps:
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/data-science-salary-analysis.git
-
-css
-Copy code
+`git clone https://github.com/yourusername/data-science-salary-analysis.git`
 
 2. Install the required Python libraries specified in the [requirements.txt](requirements.txt) file.
 
