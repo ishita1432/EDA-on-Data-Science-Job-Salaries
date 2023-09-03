@@ -29,10 +29,10 @@ The dataset used for this analysis is available in  [kaggle](https://www.kaggle.
 
 ## Analysis and Visualizations
 
-We have performed in-depth analysis on the dataset and created various visualizations using Seaborn. Some of the key visualizations include:
+We have performed an in-depth analysis of the dataset and created various visualizations using Seaborn. Some of the key visualizations include:
 
 - Distribution of Data Science salaries.
-- Salary trends by experience level.
+- Salary trends by experience level, and employment type.
 - Salary distribution across different job titles.
 - Geographic distribution of salaries.
 
