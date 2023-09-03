@@ -58,7 +58,7 @@ If you would like to contribute to this project, please open an issue or submit 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use, share, and modify the code and visualizations as needed, but please provide attribution if you use this work as a basis for your own projects.
+This project is licensed under [MIT License](https://opensource.org/license/mit/) file for details. Feel free to use, share, and modify the code and visualizations as needed, but please provide attribution if you use this work as a basis for your own projects.
 Make sure to replace "yourusername" in the clone URL with your actual GitHub username, and customize the README with your project's specific details, such as the project overview, data description, and analysis details.
 
 
