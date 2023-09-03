@@ -36,11 +36,9 @@ We have performed in-depth analysis on the dataset and created various visualiza
 - Salary distribution across different job titles.
 - Geographic distribution of salaries.
 
-You can find these visualizations in the [notebooks](notebooks/) directory.
-
 ## Tableau Dashboard
 
-To provide an interactive and user-friendly interface for exploring the salary data, we have created a Tableau dashboard. The dashboard allows users to filter and drill down into the data, gaining valuable insights at their fingertips. You can access the dashboard [here](https://public.tableau.com/app/profile/ishita.sharma7620/viz/Datasciencejobsalaries_16935291280440/DatasciencejobsalariesDashboard).
+We created a Tableau dashboard to provide an interactive and user-friendly interface for exploring the salary data. The dashboard allows users to filter and drill down into the data, gaining valuable insights at their fingertips. You can access the dashboard [here](https://public.tableau.com/app/profile/ishita.sharma7620/viz/Datasciencejobsalaries_16935291280440/DatasciencejobsalariesDashboard).
 
 [![26d65e15727ae1b319dd64456a2ed2ca.png](https://imgtr.ee/images/2023/09/02/26d65e15727ae1b319dd64456a2ed2ca.png)](https://imgtr.ee/image/apHBu)
 
@@ -48,15 +46,11 @@ To provide an interactive and user-friendly interface for exploring the salary d
 
 To reproduce the analysis and visualizations, follow these steps:
 
-1. Clone this repository:
+1. Clone this repository: `git clone https://github.com/yourusername/data-science-salary-analysis.git`
 
-`git clone https://github.com/yourusername/data-science-salary-analysis.git`
+2. Install the required Python libraries: `pip install -r requirements.txt`
 
-2. Install the required Python libraries specified in the [requirements.txt](requirements.txt) file.
-
-3. Explore the Jupyter notebooks in the [notebooks](notebooks/) directory to see the analysis and visualizations.
-
-To access and interact with the Tableau dashboard, download the [Tableau Workbook (.twbx)](tableau/dashboard.twbx) file and open it using Tableau Desktop or Tableau Public.
+To access and interact with the Tableau dashboard, download the [Tableau Workbook (.twbx)](https://github.com/ishita1432/EDA-on-Data-Science-Job-Salaries/blob/main/Data%20science%20job%20salaries.twbx) file and open it using Tableau Desktop or Tableau Public.
 
 ## Contributing
 
