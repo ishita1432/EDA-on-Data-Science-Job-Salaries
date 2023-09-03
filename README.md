@@ -46,7 +46,7 @@ We created a Tableau dashboard to provide an interactive and user-friendly inter
 
 To reproduce the analysis and visualizations, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/data-science-salary-analysis.git`
+1. Clone this repository: `git clone https://github.com/ishita1432/EDA-on-Data-Science-Job-Salaries.git`
 
 2. Install the required Python libraries: `pip install -r requirements.txt`
 
