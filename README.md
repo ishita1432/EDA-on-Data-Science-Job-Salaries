@@ -40,7 +40,7 @@ We have performed an in-depth analysis of the dataset and created various visual
 
 We created a Tableau dashboard to provide an interactive and user-friendly interface for exploring the salary data. The dashboard allows users to filter and drill down into the data, gaining valuable insights at their fingertips. You can access the dashboard [here](https://public.tableau.com/app/profile/ishita.sharma7620/viz/Datasciencejobsalaries_16935291280440/DatasciencejobsalariesDashboard).
 
-![4d3eb628ad5f1bcf7f61c06f0342a375.png](https://imgtr.ee/images/2023/09/02/4d3eb628ad5f1bcf7f61c06f0342a375.png)
+![99942228cd5d1625782b908c7a521cf7.png](https://imgtr.ee/images/2023/09/12/99942228cd5d1625782b908c7a521cf7.png)
 
 ## Usage
 
